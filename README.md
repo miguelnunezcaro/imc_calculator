@@ -21,4 +21,3 @@ El IMC es una medida utilizada para evaluar si una persona tiene un peso saludab
 Este proyecto fue desarrollado como práctica para mejorar habilidades en **Flutter**, manejo de **estado**, **diseño responsivo** y construcción de **interfaces de usuario intuitivas**. 
 
 
-<img width="371" height="797" alt="image" src="https://github.com/user-attachments/assets/daa00be8-71fe-432a-8ee8-de2aac5b56b2" />
